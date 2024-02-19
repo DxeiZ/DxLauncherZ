@@ -16,3 +16,9 @@ DxLauncherZ requires packages:
 | Discord Server | kWsArfAsGG |
 | Discord Profile | dxeiz |
 
+
+![SplashScreen](https://i.ibb.co/PtnjMM5/splash-screen.png, "Splash Screen")
+
+![LoginScreen](https://i.ibb.co/QrXJfdT/login-screen.png, "Login Screen")
+
+![PlayScreen](https://i.ibb.co/8P0KY6k/play-screen.png, "Play Screen")
